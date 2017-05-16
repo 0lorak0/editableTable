@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  editabletable:
+    image: editabletable
+    build:
+      context: ./editableTable
+      dockerfile: Dockerfile

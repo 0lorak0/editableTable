@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "editableTable", "editableTable\editableTable.csproj", "{14FA9A8B-D16D-4B17-8121-0B14DD3E023D}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{DDD9553F-7F57-44F8-B0A1-1B33959A33D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14FA9A8B-D16D-4B17-8121-0B14DD3E023D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FA9A8B-D16D-4B17-8121-0B14DD3E023D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FA9A8B-D16D-4B17-8121-0B14DD3E023D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FA9A8B-D16D-4B17-8121-0B14DD3E023D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD9553F-7F57-44F8-B0A1-1B33959A33D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD9553F-7F57-44F8-B0A1-1B33959A33D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD9553F-7F57-44F8-B0A1-1B33959A33D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD9553F-7F57-44F8-B0A1-1B33959A33D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
